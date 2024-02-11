@@ -1,11 +1,22 @@
-ESP-IDF template app
-====================
+# Welcome! 🌟
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+Hi! I created this Repo while I was learning FreeRTOS using ESP 32 ESP IDF. As we Know Like first Program in Embedded System. We are going to Build one Project **"Led Blink using FreeRTOS"** .
 
-Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
+# Components Required
 
-*Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
-Unless required by applicable law or agreed to in writing, this
-software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied.*
+|SL. No| Components  |
+|--|--| 
+| 1 | ESP-32 Espressif Dev. Board  |
+| 2 | LED   |
+| 3 | 330 Ohm Resistor  |
+| 4 | Jumper Wires  |
+| 5 | Bread Board  |
+| 6 | USB Cable   |
+
+## Connection
+|GPIO| Component  |
+|--|--|
+| D4 | LED  |
+
+
+```
